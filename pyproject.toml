@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pubmed-fetcher"
+version = "0.1.0"
+description = "Fetch PubMed articles and extract author affiliation with pharmaceutical/biotech companies."
+authors = ["Suraj Kumar <ksuraj2235@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.31.0"
+xmltodict = "^0.13.0"  # Alternative for better XML parsing
+pandas = "^2.0.0"      # For easier CSV saving
+argparse = "^1.4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

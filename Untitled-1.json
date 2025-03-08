@@ -1,0 +1,42 @@
+{
+    "r": [
+        {'@ValidYN': 'Y', 'LastName': 'Ferreira-da-Silva', 'ForeName': 'Renato', 'Initials': 'R', 'AffiliationInfo': [
+                {'Affiliation': 'Porto Pharmacovigilance Centre, Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                },
+                {'Affiliation': 'RISE-Health, Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS), Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                }
+            ]
+        },
+        {'@ValidYN': 'Y', 'LastName': 'Lobo', 'ForeName': 'Mariana Fernandes', 'Initials': 'MF', 'AffiliationInfo': {'Affiliation': 'RISE-Health, Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS), Faculty of Medicine of the University of Porto, Porto, Portugal.'
+            }
+        },
+        {'@ValidYN': 'Y', 'LastName': 'Pereira', 'ForeName': 'Ana Margarida', 'Initials': 'AM', 'AffiliationInfo': [
+                {'Affiliation': 'RISE-Health, Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS), Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                },
+                {'Affiliation': 'Allergy Unit, Instituto and Hospital CUF, Porto, Portugal.'
+                }
+            ]
+        },
+        {'@ValidYN': 'Y', 'LastName': 'Morato', 'ForeName': 'Manuela', 'Initials': 'M', 'AffiliationInfo': [
+                {'Affiliation': 'Laboratory of Pharmacology, Department of Drug Sciences, Faculty of Pharmacy of the University of Porto, Porto, Portugal.'
+                },
+                {'Affiliation': 'LAQV@REQUIMTE, Faculty of Pharmacy of the University of Porto, Porto, Portugal.'
+                }
+            ]
+        },
+        {'@ValidYN': 'Y', 'LastName': 'Polónia', 'ForeName': 'Jorge Junqueira', 'Initials': 'JJ', 'AffiliationInfo': [
+                {'Affiliation': 'Porto Pharmacovigilance Centre, Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                },
+                {'Affiliation': 'RISE-Health, Department of Medicine, Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                }
+            ]
+        },
+        {'@ValidYN': 'Y', 'LastName': 'Ribeiro-Vaz', 'ForeName': 'Inês', 'Initials': 'I', 'AffiliationInfo': [
+                {'Affiliation': 'Porto Pharmacovigilance Centre, Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                },
+                {'Affiliation': 'RISE-Health, Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS), Faculty of Medicine of the University of Porto, Porto, Portugal.'
+                }
+            ]
+        }
+    ]
+}
